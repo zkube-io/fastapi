@@ -1,3 +1,6 @@
+#usage:
+
+```
 version: 0.01
 type: Deploy
 namespace: {{vars.ZKUBE_NAMESPACE}} 
@@ -6,4 +9,5 @@ deploys:
     - name: FastAPI HTTP Server
       slug: fastapi-http
       image: https://github.com/zkube-io/fastapi
+```
   
