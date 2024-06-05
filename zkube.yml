@@ -1,6 +1,6 @@
 apiVersion: 0.01
 type: Image
-name: https://github.com/zkube-io/mysql
+name: https://github.com/zkube-io/fastapi
 slug: fastapi-http
 type: dockerRaw
 files:
